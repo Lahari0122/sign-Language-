@@ -3,3 +3,17 @@ __pycache__/
 *.pyc
 *.pyd
 *.dll
+
+# Build files
+build/
+dist/
+
+# ML models
+*.pkl
+
+# Spec files
+*.spec
+
+# OS files
+.DS_Store
+Thumbs.db
